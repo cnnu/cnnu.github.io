@@ -1,26 +1,63 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://cnnu.github.io/</loc>
-    <lastmod>2022-02-17T16:12:35+08:00</lastmod>
-  </url><url>
-    <loc>http://cnnu.github.io/posts/helloword/</loc>
-    <lastmod>2022-02-17T16:12:35+08:00</lastmod>
-  </url><url>
-    <loc>http://cnnu.github.io/posts/</loc>
-    <lastmod>2022-02-17T16:12:35+08:00</lastmod>
-  </url><url>
-    <loc>http://cnnu.github.io/tags/</loc>
-    <lastmod>2022-02-17T16:12:35+08:00</lastmod>
-  </url><url>
-    <loc>http://cnnu.github.io/tags/%E6%A0%87%E7%AD%BE/</loc>
-    <lastmod>2022-02-17T16:12:35+08:00</lastmod>
-  </url><url>
-    <loc>http://cnnu.github.io/categories/</loc>
-  </url><url>
-    <loc>http://cnnu.github.io/search/</loc>
-  </url><url>
-    <loc>http://cnnu.github.io/archives/</loc>
-  </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+
+<url>
+ <loc>http://lab.syss.ltd</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-12-8</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://wpa.qq.com/msgrd?v=3&amp;uin=1348850251&amp;site=qq&amp;menu=yes</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-12-8</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://music.163.com/</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-12-8</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://weibo.com/u/2834729050</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-12-8</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&amp;email=1@syss.ltd</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-12-8</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://www.aliyun.com/</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-12-8</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://www.jinrishici.com</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-12-8</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://html5up.net</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-12-8</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>http://beian.miit.gov.cn/</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-12-8</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
 </urlset>

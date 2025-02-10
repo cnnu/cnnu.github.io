@@ -1,3 +1,7 @@
+# robots.txt generated at http://tool.chinaz.com/robots/ 
+# https://help.bj.cn/
 User-agent: *
-Disallow:
-Sitemap: http://cnnu.github.io/sitemap.xml
+Disallow: 
+Sitemap: http://syss.ltd/sitemap.xml
+Sitemap: http://syss.ltd/sitemap.html
+Sitemap: http://syss.ltd/sitemap.txt
