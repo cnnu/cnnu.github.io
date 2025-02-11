@@ -2,22 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on CHALNONE</title>
-    <link>http://cnnu.github.io/posts/</link>
+    <link>http://cnnu.github.io/blog/posts/</link>
     <description>Recent content in Posts on CHALNONE</description>
     <image>
-      <url>http://cnnu.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://cnnu.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>CHALNONE</title>
+      <url>http://cnnu.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://cnnu.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 17 Feb 2022 16:12:35 +0800</lastBuildDate><atom:link href="http://cnnu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.143.1</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Feb 2025 10:01:17 +0800</lastBuildDate>
+    <atom:link href="http://cnnu.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Developing,stay tuned</title>
-      <link>http://cnnu.github.io/posts/helloword/</link>
-      <pubDate>Thu, 17 Feb 2022 16:12:35 +0800</pubDate>
-      
-      <guid>http://cnnu.github.io/posts/helloword/</guid>
+      <title>MF3 IC D40 中文手册</title>
+      <link>http://cnnu.github.io/blog/posts/desfarecaredinfo/</link>
+      <pubDate>Mon, 10 Feb 2025 14:12:47 +0800</pubDate>
+      <guid>http://cnnu.github.io/blog/posts/desfarecaredinfo/</guid>
       <description>Desc Text.</description>
     </item>
-    
+    <item>
+      <title>SM1 加解密数据示例</title>
+      <link>http://cnnu.github.io/blog/posts/sm1encrypteddataexample/</link>
+      <pubDate>Tue, 11 Feb 2025 10:01:17 +0800</pubDate>
+      <guid>http://cnnu.github.io/blog/posts/sm1encrypteddataexample/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>验证加密芯片身份认证设备</title>
+      <link>http://cnnu.github.io/blog/posts/encryptionchipauthenticationdevice/</link>
+      <pubDate>Tue, 11 Feb 2025 09:53:40 +0800</pubDate>
+      <guid>http://cnnu.github.io/blog/posts/encryptionchipauthenticationdevice/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>MH1721加密芯片认证流程</title>
+      <link>http://cnnu.github.io/blog/posts/encryptionchipauthentication/</link>
+      <pubDate>Tue, 11 Feb 2025 09:19:03 +0800</pubDate>
+      <guid>http://cnnu.github.io/blog/posts/encryptionchipauthentication/</guid>
+      <description>Desc Text.</description>
+    </item>
   </channel>
 </rss>
